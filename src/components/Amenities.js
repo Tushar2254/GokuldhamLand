@@ -8,7 +8,7 @@ const amenitiesData = [
   { name: "Aji-Ajoba Katta", src: "/Amenities/Aji ajoba katta.jpg" },
   { name: "Rain Water Harvesting", src: "/Amenities/rainwaterharvesting.jpg" },
   { name: "Branded Elevators", src: "/Amenities/upper lobby-01.jpg" },
-  { name: "Security Cabin", src: "/Amenities/security cabin.jpg" },
+  { name: "Security Cabin", src: "/Amenities/Security Cabin.jpg" },
   { name: "CCTV Surveillance", src: "/Amenities/cctv.jpg" },
   { name: "Entrance Lobby", src: "/Amenities/lower lobby-01 (1).jpg" },
 ];

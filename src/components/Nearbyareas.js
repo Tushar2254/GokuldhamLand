@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { MapPin, Navigation, School, Factory, Church, Hotel, LucideChurch, BookTemplateIcon, School2, GridIcon, FactoryIcon,} from 'lucide-react';
+import { Navigation, School, Factory, Church, School2, GridIcon, FactoryIcon,} from 'lucide-react';
 
 const Nearbyareas = () => {
   const locations = [

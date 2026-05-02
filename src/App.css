@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* In App.css or index.css */
+.architectural-shadow {
+  text-shadow: 
+    1px 1px 0 rgba(0,0,0,0.05),
+    3px 3px 0 rgba(0,0,0,0.02),
+    5px 5px 0 rgba(0,0,0,0.01);
+}
+
+/* This forces all elements with blue text classes to show maroon instead */
+.text-blue-300, .text-blue-400, .text-blue-800 {
+  color: #800000 !important;
+}
+
+/* This forces blue backgrounds to maroon */
+.bg-gd-blue, .bg-blue-900 {
+  background-color: #5d0000 !important;
 }

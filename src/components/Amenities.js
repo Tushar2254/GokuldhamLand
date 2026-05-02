@@ -1,16 +1,16 @@
 import React from 'react';
 
 const amenitiesData = [
-  { name: "Club House", src: "/amenities/Club House 2.jpg" },
-  { name: "Open Gym", src: "/amenities/open gym.png"  },
-  { name: "Outdoor Seating", src: "/amenities/outdoorsitting.jpg" },
-  { name: "Children Play Area", src: "/amenities/playarea.jpg" },
-  { name: "Aji-Ajoba Katta", src: "/amenities/Aji ajoba katta.jpg" },
-  { name: "Rain Water Harvesting", src: "/amenities/rainwaterharvesting.jpg" },
-  { name: "Branded Elevators", src: "/amenities/upper lobby-01.jpg" },
-  { name: "Security Cabin", src: "/amenities/security cabin.jpg" },
-  { name: "CCTV Surveillance", src: "/amenities/cctv.jpg" },
-  { name: "Entrance Lobby", src: "/amenities/lower lobby-01 (1).jpg" },
+  { name: "Club House", src: "/Amenities/Club House 2.jpg" },
+  { name: "Open Gym", src: "/Amenities/open gym.png"  },
+  { name: "Outdoor Seating", src: "/Amenities/outdoorsitting.jpg" },
+  { name: "Children Play Area", src: "/Amenities/playarea.jpg" },
+  { name: "Aji-Ajoba Katta", src: "/Amenities/Aji ajoba katta.jpg" },
+  { name: "Rain Water Harvesting", src: "/Amenities/rainwaterharvesting.jpg" },
+  { name: "Branded Elevators", src: "/Amenities/upper lobby-01.jpg" },
+  { name: "Security Cabin", src: "/Amenities/security cabin.jpg" },
+  { name: "CCTV Surveillance", src: "/Amenities/cctv.jpg" },
+  { name: "Entrance Lobby", src: "/Amenities/lower lobby-01 (1).jpg" },
 ];
 
 const Amenities = () => {

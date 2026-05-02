@@ -1,8 +1,7 @@
 import React from 'react';
-import { 
-  ShieldCheck, Window, Pipette, LayoutGrid, 
+import {
   Utensils, Zap, Paintbrush, DoorOpen, 
-  Building2, Droplets, Sun, Elevator
+  Building2, Droplets, Sun
 } from 'lucide-react';
 
 const Specifications = () => {

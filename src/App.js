@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Hero from './components/Hero';
+// import Hero from './components/Hero';
 import Missionvision from './components/Missionvision';
 // import Amenities from './components/Amenities';
 import Layoutsection from './components/Layoutsection';

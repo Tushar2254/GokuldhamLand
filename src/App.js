@@ -48,12 +48,21 @@ function App() {
     </div>
 
     {/* MahaRERA Section */}
-    <div className="inline-block px-6 py-3 border border-blue-700 bg-blue-900/30 rounded-lg mb-8">
-      <p className="text-[10px] uppercase tracking-[0.1em] text-blue-300 mb-1">
+    <div className="inline-flex flex-col items-center px-6 py-3 border border-blue-700 bg-blue-900/30 rounded-lg mb-8">
+      
+      <p className="text-[10px] uppercase tracking-[0.1em] text-blue-300 ">
         MahaRERA Registered
       </p>
+      <img src="/maharera2.png" alt="MahaRERA" className="h-40 w-auto object-contain " />
       <p className="text-lg font-bold tracking-widest text-white">
         P52100033484
+      </p>
+    </div>
+
+    {/* Copyright */}
+    <div className="pt-2 border-t border-white/10 max-w-xs mx-auto">
+      <p className="text-blue-400 text-xs tracking-widest uppercase">
+        © 2026 GoKuldham. All Rights Reserved.
       </p>
     </div>
 

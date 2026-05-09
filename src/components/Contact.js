@@ -83,7 +83,7 @@ const Contact = () => {
 
               {/* Direct Inquiry - Opens Dialer */}
               <a 
-                href="tel:+917058275959" 
+                href="tel:+919766663277" 
                 className="flex items-center gap-6 group cursor-pointer"
               >
                 <div className="relative">
@@ -97,7 +97,7 @@ const Contact = () => {
 
                 <div>
                   <p className="font-bold text-gray-800 text-lg group-hover:text-gd-blue transition-colors">Direct Inquiry</p>
-                  <p className="text-gray-600 text-xl font-medium tracking-tight group-hover:text-gd-blue transition-colors">+91 7058275959</p>
+                  <p className="text-gray-600 text-xl font-medium tracking-tight group-hover:text-gd-blue transition-colors">+91 9766663277</p>
                 </div>
               </a>
               <div><br></br>

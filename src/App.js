@@ -65,13 +65,6 @@ function App() {
         © 2026 GoKuldham. All Rights Reserved.
       </p>
     </div>
-
-    {/* Copyright */}
-    <div className="pt-2 border-t border-white/10 max-w-xs mx-auto">
-      <p className="text-blue-400 text-xs tracking-widest uppercase">
-        © 2026 GoKuldham. All Rights Reserved.
-      </p>
-    </div>
     
   </div>
 </footer>

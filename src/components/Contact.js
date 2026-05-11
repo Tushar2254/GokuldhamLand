@@ -112,6 +112,7 @@ const Contact = () => {
                 alt="Second Logo"
                 className="h-20 md:h-36 w-auto object-contain transition-transform duration-300 hover:scale-110"
               />
+                  </div>
             </div>
             </div>
           </div>

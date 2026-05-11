@@ -101,11 +101,17 @@ const Contact = () => {
                 </div>
               </a>
               <div><br></br>
+              <div className="flex items-center justify-center md:justify-start gap-4 ml-0 md:ml-14">
               <img 
-  src="/logo2st.png" 
-  alt="Gokuldham Logo" 
-  className="ml-14 h-36 w-auto object-contain transition-transform duration-300 hover:scale-110"
-/>
+                src="/logo4st.png"
+                alt="Gokuldham Logo"
+                className="h-20 md:h-36 w-auto object-contain transition-transform duration-300 hover:scale-110"
+              />
+              <img 
+                src="/logo5st.png"
+                alt="Second Logo"
+                className="h-20 md:h-36 w-auto object-contain transition-transform duration-300 hover:scale-110"
+              />
             </div>
             </div>
           </div>

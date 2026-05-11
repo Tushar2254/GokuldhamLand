@@ -5,11 +5,17 @@ const Navbar = () => (
   
   <div>
     <img 
-      src="/PNG.png" 
+      src="logo4st.png"
       alt="Gokuldham Logo" 
       className="h-24 w-auto object-contain transition-transform duration-300 hover:scale-105"
     />
+   
   </div>
+    <img 
+    src="logo5st.png"
+    alt="Gokuldham Logo" 
+    className="h-20 w-auto object-contain transition-transform duration-300 hover:scale-105 -ml-64"
+    />
 
   <div className="hidden md:flex space-x-8 font-medium">
     <a href="#three-d-section" className="transition-transform duration-300 hover:text-gd-green hover:scale-125 inline-block">HOME</a>

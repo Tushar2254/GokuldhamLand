@@ -122,7 +122,7 @@ const ThreeDLayout = () => {
             <img
               src="/logo3st.png"
               alt="Gokuldham Logo"
-              className="w-auto h-32 md:h-64 object-contain filter drop-shadow-[0_10px_10px_rgba(0,0,0,1)]"
+              className="w-auto h-52 md:h-80 object-contain filter drop-shadow-[0_10px_10px_rgba(0,0,0,1)]"
             />
             <motion.p
               initial={{ opacity: 0 }}

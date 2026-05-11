@@ -43,7 +43,7 @@ function App() {
         </span>
       </h2>
       <p className="text-xl md:text-1xl font-medium tracking-[0.1em] text-white/60">
-        by M/s. SETU DEVELOPERS
+        by SETU DEVELOPERS
       </p>
     </div>
 
